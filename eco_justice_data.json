@@ -1,0 +1,36 @@
+[
+    {
+        "name": "The Aral Sea Catastrophe",
+        "latitude": 45.21599657180213, 
+        "longitude": 58.53789405800248,
+        "instagram_link": "https://www.instagram.com/p/DAMjjIwt6AB/?img_index=1",
+        "image_path": "D:/ecojustice/eco3.jpg",
+        "small_article": "Once a beautiful blue lake in the heart of Central Asia, the Aral Sea is now a dry desert, showing us the terrible effects of poor water management and climate change. Can we ever recover from this disaster?"
+    },
+    {
+        "name": "Bishkek landfill",
+        "latitude": 42.8648016634671,
+        "longitude": 74.60359188671715,
+        "instagram_link": "https://www.instagram.com/p/DAJkhNduvZo/",
+        "image_path": "D:/ecojustice/eco2.jpg",
+        "small_article": "A site where illegal waste dumping has caused environmental damage."
+    },
+
+    {
+        "name": "Deforestation by the Palm Oil",
+        "latitude": -0.5567358303213876, 
+        "longitude": 114.46106555957131,
+        "instagram_link": "https://www.instagram.com/p/DAMpnoptI4u/?img_index=1",
+        "image_path": "D:/ecojustice/eco4.jpg",
+        "small_article": "Indonesia's lush rainforests, home to endangered species like orangutans, are disappearing at an alarming rate. The culprit? The palm oil industry."
+    },
+
+    {
+        "name": "Deforestation by the Palm Oil",
+        "latitude": 4.915983839935021, 
+        "longitude": 5.771163081582439,
+        "instagram_link": "https://www.instagram.com/p/DANWvVctZ9A/?img_index=1",
+        "image_path": "D:/ecojustice/eco5.jpg",
+        "small_article": "The Niger Delta in Nigeria, a region once abundant with life and biodiversity, has been suffering from a crisis that rarely makes headlines. The cause? Decades of oil spills, caused by oil giants like Shell and Eni."
+    }
+]
