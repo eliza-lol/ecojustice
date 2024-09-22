@@ -51,4 +51,4 @@ for item in eco_justice_data:
 LocateControl(auto_start=False).add_to(mapObj)
 
 # Save the map to an HTML file
-mapObj.save('output.html')
+mapObj.save('index.html')
